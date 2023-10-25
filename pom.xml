@@ -35,7 +35,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Koftown Tech Snapshot Nexus Repository </name>
-	      <url>http://52.3.252.236:8081/repository/Onlinebookstore_snapshot/</url>
+	      <url>http://52.3.252.236:8081/repository/onlinebookstore-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
